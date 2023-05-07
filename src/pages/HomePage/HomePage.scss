@@ -1,0 +1,38 @@
+$color: red;
+$font-size: 55px;
+
+.carousel-parent {
+  margin: 85px 16px 5px 16px;
+}
+.carousel-img {
+  margin: 25px 115px;
+  height: 350px;
+}
+.carousel-control-prev-icon,
+.carousel-control-next-icon {
+  height: 100px;
+  width: 100px;
+  outline: black;
+  border: 0px solid;
+  background-image: none;
+}
+
+.carousel-control-next-icon:after {
+  content: '>';
+  font-size: $font-size;
+  color: $color;
+}
+
+.carousel-control-prev-icon:after {
+  content: '<';
+  font-size: $font-size;
+  color: $color;
+}
+.dollar-icon {
+  border-radius: 50%;
+  height: 42px;
+  padding: 6px;
+}
+.car-icon {
+  height: 55px;
+}

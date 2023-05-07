@@ -1,0 +1,56 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ContactUsPage Has right snapshot with all requirments 1`] = `
+<form
+  onSubmit={[Function]}
+>
+  <label
+    className="form-label"
+    htmlFor="nameInput"
+  >
+    Name
+  </label>
+  <input
+    className="form-control"
+    id="nameInput"
+    name="name"
+    onBlur={[Function]}
+    onChange={[Function]}
+    type="text"
+  />
+  <label
+    className="form-label mt-3"
+    htmlFor="emailInput"
+  >
+    Email
+  </label>
+  <input
+    className="form-control"
+    id="emailInput"
+    name="email"
+    onBlur={[Function]}
+    onChange={[Function]}
+    type="email"
+  />
+  <label
+    className="form-label mt-3"
+    htmlFor="messageInput"
+  >
+    Message
+  </label>
+  <textarea
+    className="form-control"
+    id="messageInput"
+    name="message"
+    onBlur={[Function]}
+    onChange={[Function]}
+    rows="5"
+    type="text"
+  />
+  <input
+    className="btn btn-primary my-3"
+    data-testid="submitBtn"
+    type="submit"
+  />
+</form>
+`;

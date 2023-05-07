@@ -1,0 +1,8 @@
+.navItem-parent li a::after {
+  content: '|';
+  margin-left: 20px;
+}
+.navItem-parent li:last-child a::after {
+  content: '';
+
+}

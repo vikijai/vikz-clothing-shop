@@ -1,0 +1,328 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "U.S. POLO ASSN.",
+      "description": "Men's Solid Regular Fit Cotton Polo",
+      "imageUrl": "../assets/images/polo-shirt.jpg",
+      "thumbnailUrl": "http://placehold.jp/3d4070/ffffff/150x150.png?text=Apple%20Iphone%2013%20pro%0A",
+      "imgAltText": "Fit Cotton Polo",
+      "maxRetailPrice": 23700,
+      "category": "Men",
+      "discountApplicable": 11,
+      "added": "4/9/2021",
+      "quantity": 30,
+      "bestSellerRanking": 10,
+      "featured": true,
+      "reviews": [
+        {
+          "name": "vignesh",
+          "email": "vigneshjai98@gmail.com",
+          "phone": "9566084663",
+          "rating": 4,
+          "review": "nice !"
+        },
+        {
+          "name": "vikijai",
+          "email": "vikijai@gmail.com",
+          "phone": "09566084662",
+          "rating": 3,
+          "review": "super"
+        },
+        {
+          "name": "kohli",
+          "email": "kohli121@gmail.com",
+          "phone": "878623",
+          "rating": 2,
+          "review": "nice"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Allen Solly",
+      "description": "Solid Regular Fit Cotton Shirt",
+      "imageUrl": "../assets/images/slim-fit.jpg",
+      "thumbnailUrl": "http://placehold.jp/3d4070/ffffff/150x150.png?text=Apple%20Iphone%2013%20pro%0A",
+      "imgAltText": "Fit Cotton Polo",
+      "maxRetailPrice": 23700,
+      "category": "Men",
+      "discountApplicable": 11,
+      "added": "4/9/2021",
+      "quantity": 20,
+      "bestSellerRanking": 7,
+      "featured": true,
+      "reviews": [
+        {
+          "name": "viki123",
+          "email": "vikijaaai98za@gmail.com",
+          "phone": "11111111",
+          "rating": 3,
+          "review": "aaaa"
+        },
+        {
+          "name": "vignesh123",
+          "email": "newemail@gmail.com",
+          "phone": "9765322",
+          "rating": 4,
+          "review": "good"
+        },
+        {
+          "name": "john",
+          "email": "vikijai981@gmail.com",
+          "phone": "09566084662",
+          "rating": 2,
+          "review": "aqaq"
+        },
+        {
+          "name": "kohli",
+          "email": "kol@gmail.com",
+          "phone": "878623",
+          "rating": 3,
+          "review": "aaaaaaa"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Vector X",
+      "description": "Men's Cotton Hooded Sweatshirt",
+      "imageUrl": "../assets/images/round-neck-shirt.jpg",
+      "thumbnailUrl": "http://placehold.jp/3d4070/ffffff/150x150.png?text=Apple%20MacBook%20Pro%20M2",
+      "imgAltText": "Hooded Sweatshirt",
+      "maxRetailPrice": 54350,
+      "category": "Men",
+      "discountApplicable": 17,
+      "added": "4/9/2021",
+      "quantity": 30,
+      "bestSellerRanking": 5,
+      "featured": true,
+      "reviews": [
+        {
+          "name": "vignesh",
+          "email": "vigneshjai98@gmail.com",
+          "phone": "111121",
+          "rating": 4,
+          "review": "assssssss"
+        },
+        {
+          "name": "vignesh123",
+          "email": "newemail@gmail.com",
+          "phone": "111121",
+          "rating": 2,
+          "review": "aaaaaaaaaaaa"
+        },
+        {
+          "name": "kholi",
+          "email": "kholi@gmail.com",
+          "phone": "12345678",
+          "rating": 3,
+          "review": "nice"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Van Heusen",
+      "description": "Van Heusen Athleisure Men Shirt - Polyester Rayon Spandex - Zipper Pocket, Super Stretch, Drawstring Waist",
+      "imageUrl": "../assets/images/half-sleeve.jpg",
+      "thumbnailUrl": "http://placehold.jp/3d4070/ffffff/150x150.png?text=Apple%20MacBook%20Pro%20M2",
+      "imgAltText": "Van Heusen Athleisure Men Joggers",
+      "maxRetailPrice": 87540,
+      "category": "Men",
+      "discountApplicable": 9,
+      "added": "4/9/2021",
+      "quantity": 30,
+      "bestSellerRanking": 2,
+      "featured": true,
+      "reviews": []
+    },
+    {
+      "id": 5,
+      "name": "Aurelia",
+      "description": "Women Kurta-Straight Palazzo",
+      "imageUrl": "../assets/images/anarkali-kurti.jpg",
+      "thumbnailUrl": "http://placehold.jp/3d4070/ffffff/150x150.png?text=Apple%20MacBook%20Pro%20M2",
+      "imgAltText": "Kurta-Straight",
+      "maxRetailPrice": 78900,
+      "category": "Women",
+      "discountApplicable": 10,
+      "added": "4/9/2021",
+      "quantity": 30,
+      "bestSellerRanking": 3,
+      "featured": true,
+      "reviews": [
+        {
+          "name": "vignesh",
+          "email": "vigneshjai98@gmail.com",
+          "phone": "111121",
+          "rating": 4,
+          "review": "nice!"
+        },
+        {
+          "name": "kohli",
+          "email": "kohli@gmail.com",
+          "phone": "878623",
+          "rating": 3,
+          "review": "aqws"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Fabricorn",
+      "description": "Women's T-Shirt",
+      "imageUrl": "../assets/images/kurta-straight.jpg",
+      "thumbnailUrl": "http://placehold.jp/3d4070/ffffff/150x150.png?text=Apple%20MacBook%20Pro%20M2",
+      "imgAltText": "Women's T-Shirt",
+      "maxRetailPrice": 11000,
+      "category": "Women",
+      "discountApplicable": 13,
+      "added": "4/9/2021",
+      "quantity": 30,
+      "bestSellerRanking": 8,
+      "featured": true,
+      "reviews": []
+    },
+    {
+      "id": 7,
+      "name": "Attirezilla",
+      "description": "Women Anarkali Kurti | Embroidery On Yoke & Sleeves",
+      "imageUrl": "../assets/images/puff-sleeves-ruffled.jpg",
+      "thumbnailUrl": "http://placehold.jp/3d4070/ffffff/150x150.png?text=Apple%20MacBook%20Pro%20M2",
+      "imgAltText": "Anarkali Kurti",
+      "maxRetailPrice": 65430,
+      "category": "Women",
+      "discountApplicable": 15,
+      "added": "4/9/2021",
+      "quantity": 30,
+      "bestSellerRanking": 1,
+      "featured": true,
+      "reviews": []
+    },
+    {
+      "id": 8,
+      "name": "Wedani",
+      "description": "Women's Casual Puff Sleeves Ruffled Collor Foral Top",
+      "imageUrl": "../assets/images/gym-cotton-t-shirt.jpg",
+      "thumbnailUrl": "http://placehold.jp/3d4070/ffffff/150x150.png?text=Apple%20MacBook%20Pro%20M2",
+      "imgAltText": "Casual Puff Sleeves",
+      "maxRetailPrice": 76540,
+      "category": "Women",
+      "discountApplicable": 12,
+      "added": "4/9/2021",
+      "quantity": 30,
+      "bestSellerRanking": 4,
+      "featured": true,
+      "reviews": [
+        {
+          "name": "kohli",
+          "email": "kohli@gmail.com",
+          "phone": "878623",
+          "rating": 2,
+          "review": "aaaaaaaa"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "name": "MY NEWBORN",
+      "description": "My Newborn Baby Mittens Caps Gloves and Booty Combo Set",
+      "imageUrl": "../assets/images/newborn-caps-and-gloves.jpg",
+      "thumbnailUrl": "http://placehold.jp/3d4070/ffffff/150x150.png?text=Apple%20MacBook%20Pro%20M2",
+      "imgAltText": "Baby Mittens Caps Gloves",
+      "maxRetailPrice": 86542,
+      "category": "Kids",
+      "discountApplicable": 15,
+      "added": "4/9/2021",
+      "quantity": 30,
+      "bestSellerRanking": 9,
+      "featured": true,
+      "reviews": []
+    },
+    {
+      "id": 10,
+      "name": "ARIEL",
+      "description": "ARIEL Cotton Clothing Sets for Baby Boys & girls - Unisex Clothing sets Full Sleeve T-shirt & Pant",
+      "imageUrl": "../assets/images/ariel-baby-set.jpg",
+      "thumbnailUrl": "http://placehold.jp/3d4070/ffffff/150x150.png?text=Apple%20MacBook%20Pro%20M2",
+      "imgAltText": "Full Sleeve T-shirt & Pant",
+      "maxRetailPrice": 90032,
+      "category": "Kids",
+      "discountApplicable": 5,
+      "added": "4/9/2021",
+      "quantity": 30,
+      "bestSellerRanking": 12,
+      "featured": true,
+      "reviews": []
+    },
+    {
+      "id": 11,
+      "name": "Real Basics",
+      "description": "TOPES New Born Baby Boys & Baby Girls Infant Jabla Clothes (0-3 Months) Combo Pack of 5 White",
+      "imageUrl": "../assets/images/jabla-clothes.jpg",
+      "thumbnailUrl": "http://placehold.jp/3d4070/ffffff/150x150.png?text=Apple%20MacBook%20Pro%20M2",
+      "imgAltText": "Baby Girls Infant Jabla Clothes",
+      "maxRetailPrice": 45789,
+      "category": "Kids",
+      "discountApplicable": 10,
+      "added": "4/9/2021",
+      "quantity": 30,
+      "bestSellerRanking": 6,
+      "featured": true,
+      "reviews": []
+    },
+    {
+      "id": 12,
+      "name": "Bold N Elegant",
+      "description": "Bold N Elegant 3D Fur Reindeer Cartoon Thick Winter Warm T-shirt Pant with Hood Jacket 3 Pc Clothing Set for Infant Toddler Kids",
+      "imageUrl": "../assets/images/cartoon-winter-warm-shirt.jpg",
+      "thumbnailUrl": "http://placehold.jp/3d4070/ffffff/150x150.png?text=Apple%20MacBook%20Pro%20M2",
+      "imgAltText": "Hood Jacket 3 Pc Clothing Set",
+      "maxRetailPrice": 34540,
+      "category": "Kids",
+      "discountApplicable": 17,
+      "added": "4/9/2021",
+      "quantity": 30,
+      "bestSellerRanking": 11,
+      "featured": true,
+      "reviews": []
+    }
+  ],
+  "categories": [
+    {
+      "id": 101,
+      "name": "Men"
+    },
+    {
+      "id": 102,
+      "name": "Women"
+    },
+    {
+      "id": 103,
+      "name": "Kids"
+    }
+  ],
+  "contactData": {
+    "address": "280 ParK Avenue Z,Cross cut Complex, Bangalore, India",
+    "phone": [
+      "(91) 987 654 3210 ",
+      "(91) 987 654 3211 "
+    ],
+    "email": "contact@vikzclothing.com"
+  },
+  "getInTouchData": [
+    {
+      "name": "Arun",
+      "email": "arun@gmail.com",
+      "message": "Awesome website",
+      "id": 1
+    },
+    {
+      "name": "vignesh",
+      "email": "vigneshjai98@gmail.com",
+      "message": "asd",
+      "id": 2
+    }
+  ]
+}
