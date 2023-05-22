@@ -1,11 +1,13 @@
-import { faSearch } from '@fortawesome/free-solid-svg-icons';
+import { faSearch, faCartShopping } from '@fortawesome/free-solid-svg-icons';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import React from 'react';
-import './Header.scss'
-import { NavLink } from 'react-router-dom';
+import React, { useContext } from 'react';
+import './Header.scss';
+import { Link, NavLink } from 'react-router-dom';
 import MenuList from '../MenuList/MenuList';
+import { CartContext } from '../contexts/CartContext';
 
 const Header = () => {
+  const cart = useContext(CartContext);
   return (
     <header className='mx-3 p-3 bg-dark fixed-top text-white'>
       <div className='d-flex flex-wrap align-items-center justify-content-center justify-content-lg-start'>
@@ -34,6 +36,11 @@ const Header = () => {
           </form>
           {/* Renderes the MenuList items */}
           <MenuList />
+          <Link to='/cart-items'
+           className='my-2 bg-dark border-0'>
+            <FontAwesomeIcon className='text-white bg-dark' icon={faCartShopping} />
+          </Link>
+          <p className='mx-2 my-2'>{cart.cartState ? cart.cartState.length : '0'}</p>
         </div>
       </div>
     </header>

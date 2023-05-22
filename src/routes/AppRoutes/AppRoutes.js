@@ -6,6 +6,7 @@ import ProductsPage from '../../pages/ProductsPage/ProductsPage';
 import ProductDetailsPage from '../../pages/ProductDetailsPage/ProductDetailsPage';
 import History from '../../pages/AboutUsPage/History/History';
 import PageNotFound from '../../components/shared/ErrorPage/PageNotFound';
+import CartPage from '../../pages/CartPage/CartPage';
 
 // lazy loading
 const HomePage = React.lazy(() => import('../../pages/HomePage/HomePage'));
@@ -25,6 +26,7 @@ const AppRoutes = () => {
           <Route path='history' element={<History />} />
         </Route>
         <Route path='/contact-us' element={<ContactUsPage />} />
+        <Route path='/cart-items' element={<CartPage />} />
         <Route path='*' element={<PageNotFound />} />
       </Routes>
     </Suspense>
